@@ -13,7 +13,7 @@ DBT_PROJECT_DIR = "/opt/airflow/dbt"
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'email': ['teddylnk1@gmail.com'],
+    'email': ['enggezahegn.w@gmail.com'],
     'email_on_failure': True,
     'email_on_retry': True,
     'retries': 1,
